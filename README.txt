@@ -1,3 +1,5 @@
+I made this simple fitness tracking app a few years ago with my colleague @NajpoctivejsiStudentEver.
+
 Project structure:
 
 fitnesstracker/
